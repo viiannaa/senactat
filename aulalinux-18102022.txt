@@ -1,0 +1,33 @@
+#01_ MintUpdate 
+	A) atualizar --> apt   --> sources.list 
+    B) Repositorios --> apt  ---> sources.list 
+	 (=Diretório
+	 c) pesquisar oque é PPA´S
+	 d) instalar atualizacão
+	 #02_ instalação dos convidados VirtualBox
+	  A) dispositivos	
+	            Inserir imagem do cd dos convidados 
+				# 03 atualizando via linha de comando
+				 CRTL ALT T
+				
+				Pesquisar: oque é Bash?
+				o que é shell?
+				oque é apt-get?
+				Ctrl alt f1 tty
+				ctrl alt t
+				ctrl alt f7
+				oque é sudo?
+				 sudo update  ---> mintUpdate Atualizar
+		             ctrl l limpar tela
+					 Sudo apt upgrade MintUpdate instalar
+                      sudo apt full-upgrade
+                     sudo apt dist-upgrade 
+					 sudo apt autoremove
+					 sudo apt autoclean 
+					 sudo apt clean
+					 history
+					 20/10
+				    Linux mint:15-.DEB
+					Gdebi instalador de pacotes (Linux)
+					-----> Dependências 
+					Terminal - apt
