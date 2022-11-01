@@ -27,9 +27,9 @@
 	_a - Visual Studio Code for Linux (Recomendo via Gdebi)-OK
 	_b - NotepadQQ for Linux (Gerenciador de Aplicativo)-OK
 	_c - Atom for Linux (Recomendo via Gdebi)-OK
-	_d - Sublime for Linux (Recomendo via Gdebi)
+	_d - Sublime for Linux (Recomendo via Gdebi)-OK
 	 
 #05_ Instalação de Reprodutores de Música Editor de Áudio e Vídeo
-	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo)
-	_b - Audacity (Gerenciador de Aplicativo)
-	_c - Kdenlive (Recomendo AppImagem)
+	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo)-ok
+	_b - Audacity (Gerenciador de Aplicativo)-ok
+	_c - Kdenlive (Recomendo AppImagem)-ok
