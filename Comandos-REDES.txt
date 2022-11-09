@@ -1,0 +1,12 @@
+ipconfig
+ipconfig /all
+ipconfig /? (Ajuda)
+hostname
+ping ip ou ping nome
+ping 192.14.34.2.1
+ping PC10
+cls
+
+C - 192.168.X.NºPC (254 Pcs)
+A - 10.NºPC.NºPC.NºPC (16.777.214 PCs)
+B - 172.16.0 até 31.NºPC ( 16.534 Pcs) 
