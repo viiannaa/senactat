@@ -1,0 +1,15 @@
+ 1#Comando de mover (Renomear) 
+  mv origem Destino 
+    Comando copiar - cp
+	COMANDO DE IMPRIMIR MENSAGEM NA TELA ''echo''
+	echo senac tatuapé > Senac.txt
+	comando para listar o conteudo do arquivo
+	cat -n
+	 comando para listar o conteudo do arquivo
+	 #mais eu posso escolher as linhas
+	 head
+	 tail
+	 
+	 # DESAFIO DO PROF RAMOS (O melhor !!!!!!!!!!)
+	  cat -n /etc/ services | head -n20
+	  
